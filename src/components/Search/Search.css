@@ -1,0 +1,13 @@
+.img-search {
+    width: 100%;
+    height: 320px;
+    border-radius: 25px;
+}
+.search {
+    display: flex;
+    margin: 15px 0;
+  }
+  .trending {
+      padding-top: 100px;
+      padding-bottom: 100px;
+  }
